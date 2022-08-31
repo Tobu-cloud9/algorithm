@@ -1,4 +1,4 @@
 # algorithm
 - balanced binary search tree
-  - insert-erase base
-  - merge-split base
+  - Treap (insert-erase)
+  - Treap (merge-split)
